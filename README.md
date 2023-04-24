@@ -1,5 +1,7 @@
 # Roteiro para o desenvolvimento da atividade prática do DIO Live Coding
 
+Professor: Cassiano Peres
+
 ## Serviços AWS utilizados
 
 - Amazon Cognito
